@@ -27,5 +27,8 @@
 	"bugs": {
 		"url": "https://github.com/JacobLinCool/$#REPOSITORY_NAME#$/issues"
 	},
-	"homepage": "https://jacoblincool.github.io/$#REPOSITORY_NAME#$"
+	"homepage": "https://jacoblincool.github.io/$#REPOSITORY_NAME#$",
+	"typedoc": {
+		"entryPoint": "./src/index.ts"
+	}
 }
