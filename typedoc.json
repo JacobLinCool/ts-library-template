@@ -1,0 +1,6 @@
+{
+	"entryPoints": ["packages/*"],
+	"name": "$#LIBRARY_NAME#$",
+	"entryPointStrategy": "packages",
+	"includeVersion": true
+}

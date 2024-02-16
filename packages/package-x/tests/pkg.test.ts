@@ -1,3 +1,4 @@
+import { expect, test } from "vitest";
 import _package from "../package.json";
 import { pkg } from "../src";
 
